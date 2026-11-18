@@ -1,0 +1,15 @@
+{
+  "productName": "Notiq",
+  "executableName": "Notiq",
+  "installerName": "Notiq-Setup",
+  "portableName": "Notiq-Portable",
+  "appId": "com.notiq.app",
+  "description": "Lightweight, fully offline desktop notepad with a built-in file explorer, tabs, search and Markdown formatting.",
+  "author": "Offline Notepad",
+  "copyright": "Copyright © 2026 Offline Notepad",
+  "icon": "assets/icons/icon.png",
+  "performance": {
+    "disableHardwareAcceleration": false,
+    "disableFeatures": []
+  }
+}
